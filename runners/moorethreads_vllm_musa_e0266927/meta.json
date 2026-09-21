@@ -20,5 +20,6 @@
     "E": "validated",
     "F": "validated",
     "G": "unsupported"
-  }
+  },
+  "deprecated_by": "moorethreads_vllm_musa_6607740b"
 }
